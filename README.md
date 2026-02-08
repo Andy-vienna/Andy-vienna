@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Andy (@Andy-vienna) 🇦🇹
 
-<!--
-**Andy-vienna/Andy-vienna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Java Architect** based in Vienna, dedicated to **Software Craftsmanship** and building robust, maintainable enterprise systems.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Expertise
+- **Languages:** Java (Expert), SQL
+- **Architecture:** SOLID Principles, Clean Code, TDD (Test-Driven Development)
+- **Security:** SSL/TLS, Java KeyStore, Certificate Management
+- **Tools:** Maven, Ant, Git, CI/CD Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Community & Impact
+- **Stack Overflow:** Active contributor helping developers solve complex Java & Security issues. 
+- **Focus:** I enjoy deep-diving into JVM internals, JXLS reporting, and refactoring legacy systems.
+
+### 💬 Let's Connect
+- 📍 Based in: Vienna, Austria
+- 🔗 Find me on Stack Overflow: [andyvienna](https://stackoverflow.com/users/32334666)
